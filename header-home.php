@@ -1,0 +1,1 @@
+<header class="template-header"><?php get_sidebar( 'footer' ); ?></header>
